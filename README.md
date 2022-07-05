@@ -1,3 +1,3 @@
 # Chatroom-with-django
-Made this project while learning HTML and CSS, hence the code includes some basic learnings as well
-Extensilvely used flexboz and grid accurately, to create and exact clone of the youtube homepage light mode.(tried my best)
+Created a chatroom using Django for the back-end and bootstrap html css for the fornt end, this was my first personal project, learnt many new things.
+Obviously requires immporvements, will try my nest to make an uodated version.
