@@ -1,5 +1,5 @@
 # Chatroom-with-django
-Created a chatroom using Django for the back-end and bootstrap html css for the fornt end, this was my first personal project, learnt many new things.
-Obviously requires immporvements, will try my nest to make an updated version.
-Faced some  difficulty while connecting the urls.py to views.py
-Took reference from a youtube video.(link to be attached)
+Created a chatroom using Django for the back-end and boot strap HTML-CSS for the front end.
+The chatroom allows multiple users to login with just their username and chat with other people who have loged in as well.
+Scope of improvement can be the maintainence of database with exclusive passwords for each user.
+The UI/UX of the chatroom also requires a large amount of improvement, working on it.
